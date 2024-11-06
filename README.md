@@ -8,5 +8,6 @@ I am Xavier VAN AUSLOOS, Freelance Data Engineer
 Visit my portfolio page
 
 I am available for contract/consulting roles
+<br>
 Let's chat 
 
