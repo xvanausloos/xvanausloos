@@ -5,8 +5,6 @@ I am Xavier VAN AUSLOOS, Freelance Data Engineer
 
 📫 How to reach me xavier.vanausloos@ladonneeintelligente.com
 
-Visit my portfolio page
-
 I am available for contract/consulting roles
 <br>
 Let's chat 
