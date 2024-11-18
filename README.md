@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Xavier VAN AUSLOOS, Freelance Data Engineer
 
-💬 Ask me about python, java, scala, Spark, Flink
+💬 Ask me about Data Engineering, Apache Spark, Apache Flink, ML OPS, Python, Java, Scala, Airflow, DBT.
 
 📫 How to reach me xavier.vanausloos@ladonneeintelligente.com
 
