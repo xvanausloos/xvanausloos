@@ -31,7 +31,7 @@ I design and deploy **modern data platforms** that transform raw data into gover
 **Languages:** Python · Java · Scala · SQL
 
 ### Open to:
-✅ ****Freelance Head of Data**, AI Engineer, Data Engineer & Architects ** roles  
+✅ **Freelance Head of Data**, AI Engineer, Data Engineer & Architects ** roles  
 ✅ **Data architecture consulting** for cloud migrations  
 ✅ **AI/ML platform design** & operationalization  
 ✅ **Training & workshops** (Big Data, ML, GenAI, DataOps)
